@@ -69,7 +69,7 @@ CI/CD:  GitHub Push → GitHub Actions → Tests → Docker Build → EC2 Deploy
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/task-manager-api.git
+git clone https://github.com/ErickBits/task-manager-api.git
 cd task-manager-api
 
 # 2. Create your .env file
